@@ -1,3 +1,4 @@
+//https://www.tachytelic.net/2021/04/trigger-power-automate-selected-message-outlook/
 Option Explicit
 
 'Duplicate this routine to create different trigger subjects.
